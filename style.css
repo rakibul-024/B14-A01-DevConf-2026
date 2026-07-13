@@ -258,10 +258,9 @@ font-weight: 700;
 /* priocing-section end */
 
 
-
-/* <!-- footer-section-start --> */
+/* <!-- placeholder-section-start --> */
 .hackathon-section {
-  --card: #12151c;
+  --card: #1d1f23;
   --card-border: #22262f;
   --text-primary: #ffffff;
   --text-secondary: #9aa2b1;
@@ -270,7 +269,7 @@ font-weight: 700;
   --accent-coral: #ff8a65;
   --accent-green: #34d399;
 
-  background: #0a0c10;
+  background: #181818;
   max-width: 100%;
   padding: 80px 20px;
   text-align: center;
@@ -341,7 +340,7 @@ font-weight: 700;
 }
 
 .hackathon-section .why-join-label {
-  color: var(--text-muted);
+  color: var(--accent-blue);
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -418,6 +417,7 @@ font-weight: 700;
  footer {
     background-color: #0D1B2A;
     padding:  56px 32px 60px 60px;
+    margin-top: 150px;
 }
 
 .main-footer {
